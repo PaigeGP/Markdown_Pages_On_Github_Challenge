@@ -16,6 +16,8 @@
 
 *This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11d3d2b6-6d01-427d-a4dc-8b631f605f7e/dbkakoa-fa7369ae-9112-4269-bf5d-d9b7ca23c412.png/v1/fill/w_1451,h_551/pokemon_group_banner_by_auraanimation_dbkakoa-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODI2IiwicGF0aCI6IlwvZlwvMTFkM2QyYjYtNmQwMS00MjdkLWE0ZGMtOGI2MzFmNjA1ZjdlXC9kYmtha29hLWZhNzM2OWFlLTkxMTItNDI2OS1iZjVkLWQ5YjdjYTIzYzQxMi5wbmciLCJ3aWR0aCI6Ijw9MjE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cmBkwSUzNkYRnouYO0TJm55p_acPdzxMJwn-9XyBLsk" alt="Pokemon Banner" width="200" />
+
 ---
 
 
