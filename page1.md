@@ -24,6 +24,5 @@
 
 ***
 Footnotes
-***
 
 [^1]:https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)
