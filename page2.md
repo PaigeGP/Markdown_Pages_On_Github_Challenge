@@ -12,11 +12,8 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 | **Platform**      | **Controller**                      |
 |-------------------|-------------------------------------|
 | Microsoft Windows | Xbox Controller or Keyboard         |
-|-------------------|-------------------------------------|
 | Nintendo Switch   | Joycons or other Switch Controller  |
-|-------------------|-------------------------------------|
 | PlayStation 4     | Playstation Controller              |
-|-------------------|-------------------------------------|
 | Xbox One          | Xbox Controller                     |
 
 
