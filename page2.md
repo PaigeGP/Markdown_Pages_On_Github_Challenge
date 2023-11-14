@@ -17,9 +17,9 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 | Xbox One          | Xbox Controller                     |
 
 
-+ Players
-  - 1-4
-
++ Players: 1-4
++ Genre: Roguelike, Third-Person Shooter
++ Single-player & multiplayer
 
 *This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
 
