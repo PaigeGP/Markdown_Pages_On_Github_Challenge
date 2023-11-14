@@ -20,7 +20,7 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 
 *This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11d3d2b6-6d01-427d-a4dc-8b631f605f7e/dbkakoa-fa7369ae-9112-4269-bf5d-d9b7ca23c412.png/v1/fill/w_1451,h_551/pokemon_group_banner_by_auraanimation_dbkakoa-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODI2IiwicGF0aCI6IlwvZlwvMTFkM2QyYjYtNmQwMS00MjdkLWE0ZGMtOGI2MzFmNjA1ZjdlXC9kYmtha29hLWZhNzM2OWFlLTkxMTItNDI2OS1iZjVkLWQ5YjdjYTIzYzQxMi5wbmciLCJ3aWR0aCI6Ijw9MjE3NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cmBkwSUzNkYRnouYO0TJm55p_acPdzxMJwn-9XyBLsk" alt="Pokemon Banner" width="300" />
+<img src="https://camo.githubusercontent.com/bdb19f504fdeb203ab6d6a34b12188c1e125f5c4a109a1303027925ea36b9905/68747470733a2f2f7777772e7269736b6f667261696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30342f726f72325f6c6f676f5f3531322d312e706e67" alt="ROR2 Banner" width="300" />
 
 ---
 
