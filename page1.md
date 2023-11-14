@@ -13,6 +13,6 @@ PokePark 2: Wonders Beyond is the sequel to first game PokePark: Pikachu's Adven
 | Nintendo Wii      | 1-4         | Wii Remote and Nunchuk       |
 
 
-*This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.
+*This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
 
 
