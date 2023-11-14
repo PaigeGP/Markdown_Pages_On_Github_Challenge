@@ -1,5 +1,4 @@
-# My Favorite Video Games
----
+# My Favorite Video Games ---
 
 Welcome to my repository!
 
