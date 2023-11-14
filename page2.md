@@ -31,4 +31,4 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 ***
 Footnotes
 
-[^1]:https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)
+[^1]:https://en.wikipedia.org/wiki/Risk_of_Rain_2
