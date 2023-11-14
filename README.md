@@ -1,4 +1,4 @@
-<span style="font-family: Comic Sans; font-size: 1.2em;">This is some text with a custom font.</span>
+<span style="font-family: Meslo Noto; font-size: 1.2em;">This is some text with a custom font.</span>
 
 # My Favorite Video Games
 
