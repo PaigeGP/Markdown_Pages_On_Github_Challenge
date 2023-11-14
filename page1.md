@@ -4,7 +4,7 @@
 
 ## A Brief Synopsis
 
-PokePark 2: Wonders Beyond is the sequel to first game PokePark: Pikachu's Adventure. I absolutely loved this game growing up and always wished they would have made a third in the series. This game is a cute and thrilling journey through the world of PokePark. You travel to a place called Wish Park and it is up to you to save the pokemon trapped there. 
+PokePark 2: Wonders Beyond is the sequel to first game PokePark: Pikachu's Adventure. I absolutely loved this game growing up and always wished they would have made a third in the series. This game is a cute and thrilling journey through the world of PokePark. You travel to a place called Wish Park and it is up to you to save the pokemon trapped there in order to save PokePark.
 
 ## System Requirements
 
