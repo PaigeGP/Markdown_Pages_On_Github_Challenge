@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Centered Header</strong>
+  <strong>#Centered Header</strong>
 </p>
 
 
