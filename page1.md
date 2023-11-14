@@ -16,4 +16,4 @@
 
 *This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
 
-[^1]:
+[^1]:https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)
