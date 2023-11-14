@@ -7,7 +7,7 @@
 [PokePark 2: Wonders Beyond](https://en.wikipedia.org/wiki/Pok%C3%A9Park_2:_Wonders_Beyond) is the sequel to first game [PokePark: Pikachu's Adventure](https://en.wikipedia.org/wiki/Pok%C3%A9Park_Wii:_Pikachu%27s_Adventure). I absolutely loved this game growing up and always wished they would have made a third in the series. This game is a cute and thrilling journey through the world of PokePark. You travel to a place called Wish Park and it is up to you to save the pokemon trapped there in order to save PokePark.
 >See the footnote for a link to the Wikipedia page for Pokemon[^1]
 
-## System Requirements
+## Systems
 
 | **Platform**      | **Players** | **Controller**                |
 |-------------------|-------------|------------------------------|
