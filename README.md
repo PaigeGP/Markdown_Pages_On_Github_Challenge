@@ -1,7 +1,4 @@
 <p align="center">
-  <strong>#Centered Header</strong>
-</p>
-
 
 # My Favorite Video Games 😄
 
@@ -15,3 +12,6 @@
 
 - [Page 1](page1.md)
 - [Page 2](page2.md)
+
+
+</p>
