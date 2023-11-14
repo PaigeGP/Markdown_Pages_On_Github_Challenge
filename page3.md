@@ -1,6 +1,6 @@
-# Hatsune Miku: Project DIVA
+# Hatsune Miku: Project DIVA MegaMix
 
-<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1000/ncom/software/switch/70010000020030/0d51784eb518c452f4e6a4d2f851e61df46a0da17f01f135f2a505c26f3fbf38" alt="PokePark2_Img" width="400"/>
+<img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000024015/0f28e2124121e22e50ad70165e94ee01e12447c2e025629844e01e07fc8f0942" alt="PokePark2_Img" width="400"/>
 
 ## A Brief Synopsis
 
