@@ -7,7 +7,7 @@
 Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Risk of Rain](https://en.wikipedia.org/wiki/Risk_of_Rain). This game is a third-person roguelike where you play as survivors who have been stranded on an alien planet. You must survive by fighting creatures, finding the teleporter, and defeating the boss to progress to the next stage. The gameplay can be intense and if you lose you have to start over from the very beginning.
 >See the footnote for a link to the Wikipedia page for Risk of Rain 2[^1]
 
-## System Requirements
+## Systems
 
 | **Platform**      | **Controller**                      |
 |-------------------|-------------------------------------|
