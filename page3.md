@@ -4,8 +4,9 @@
 
 ## A Brief Synopsis
 
-Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Risk of Rain](https://en.wikipedia.org/wiki/Risk_of_Rain). This game is a third-person roguelike where you play as survivors who have been stranded on an alien planet. You must survive by fighting creatures, finding the teleporter, and defeating the boss to progress to the next stage. The gameplay can be intense and if you lose you have to start over from the very beginning.
->See the footnote for a link to the Wikipedia page for Risk of Rain 2[^1]
+There is no plot to the game Hatsune Miku: Project DIVA MegaMix. This game is rhythmm game that features many vocaloid songs. I will leave links below in the footnotes to the Project DIVA wiki and a page explaining what vocaloid is. (Brief explanation for vocaloid is that it is a software that models a human singing voice digitally.
+>See the footnote for a link to the Wikipedia page for Project DIVA 2[^1]
+>See the footnote for a link to the Wikipedia page for Vocaloid[^2]
 
 ## Systems
 
@@ -36,4 +37,5 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 ***
 Footnotes
 
-[^1]:https://en.wikipedia.org/wiki/Risk_of_Rain_2
+[^1]:https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA
+[^2]:https://en.wikipedia.org/wiki/Vocaloid
