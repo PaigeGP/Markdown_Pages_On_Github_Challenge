@@ -21,7 +21,7 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 + Genre: Roguelike, Third-Person Shooter
 + Single-player & multiplayer
 
-*This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
+*I still have yet to play the original Risk of Rain game and plan on buying the more recently released remaster of the orignal called Risk of Rain Returns. I recommend Risk of Rain 2 if you like roguelike games.*
 
 <img src="https://camo.githubusercontent.com/bdb19f504fdeb203ab6d6a34b12188c1e125f5c4a109a1303027925ea36b9905/68747470733a2f2f7777772e7269736b6f667261696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30342f726f72325f6c6f676f5f3531322d312e706e67" alt="ROR2 Banner" width="300" />
 
