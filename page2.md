@@ -9,9 +9,16 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 
 ## System Requirements
 
-| **Platform**      | **Players** | **Controller**                |
-|-------------------|-------------|------------------------------|
-| Nintendo Wii      | 1-4         | Wii Remote and Nunchuk       |
+| **Platform**      | **Controller**                      |
+|-------------------|-------------------------------------|
+| Microsoft Windows | Xbox Controller or Keyboard         |
+|-------------------|-------------------------------------|
+| Nintendo Switch   | Joycons or other Switch Controller  |
+|-------------------|-------------------------------------|
+| PlayStation 4     | Playstation Controller              |
+|-------------------|-------------------------------------|
+| Xbox One          | Xbox Controller                     |
+
 
 
 *This game is a very simple game meant primarly for children's enjoyment and even after revisiting it I still enjoyed the gameplay. I defintely recommend this game to anyone who is a fan of Pokemon and is looking for a game that different than the traditonal RPGs.*
