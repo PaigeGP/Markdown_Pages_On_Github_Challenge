@@ -9,6 +9,6 @@
 
 
 - [PokePark 2: Wonders Beyond](page1.md)
-- [Page 2](page2.md)
+- [Risk of Rain 2](page2.md)
 
 
