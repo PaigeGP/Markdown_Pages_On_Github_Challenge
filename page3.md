@@ -17,8 +17,6 @@ There is no plot to the game Hatsune Miku: Project DIVA MegaMix. This game is rh
 |-------------------|-------------------------------------|
 | Microsoft Windows | Xbox Controller or Keyboard         |
 | Nintendo Switch   | Joycons or other Switch Controller  |
-| PlayStation 4     | Playstation Controller              |
-| Xbox One          | Xbox Controller                     |
 
 
 + Players: 1-4
