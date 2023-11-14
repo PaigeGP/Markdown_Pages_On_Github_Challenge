@@ -11,6 +11,3 @@
 - [PokePark 2: Wonders Beyond](page1.md)
 - [Risk of Rain 2](page2.md)
 - [Hatsune Miku: Project DIVA](page3.md)
-- [OneShot](page4.md)
-
-
