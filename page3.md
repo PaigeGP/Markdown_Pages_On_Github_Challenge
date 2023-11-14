@@ -19,11 +19,10 @@ There is no plot to the game [Hatsune Miku: Project DIVA MegaMix](https://miku.s
 | Nintendo Switch   | Joycons or other Switch Controller  |
 
 
-+ Players: 1-4
-+ Genre: Roguelike, Third-Person Shooter
-+ Single-player & multiplayer
++ Players: 1
++ Genre: Rhythmn game
 
-*I still have yet to play the original Risk of Rain game and plan on buying the more recently released remaster of the orignal called Risk of Rain Returns. I recommend Risk of Rain 2 if you like roguelike games.*
+*I have always been a fan or rhythmn games, whether they be mobile or on the PC, so the release of Project DIVA was a must have for any vocaloid fan. I wanted to play this game series for a while but because it was a Playsation exclusive I was never able to play until SEGA released this version of the game.*
 
 <img src="https://miku.sega.com/megamix/img/logo.png" alt="Miku Banner" width="300">
 
