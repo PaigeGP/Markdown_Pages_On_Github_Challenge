@@ -23,7 +23,7 @@ Risk of Rain 2 is yet another sequel on my list (lol) this time for the game [Ri
 
 *I still have yet to play the original Risk of Rain game and plan on buying the more recently released remaster of the orignal called Risk of Rain Returns. I recommend Risk of Rain 2 if you like roguelike games.*
 
-<img src="https://miku.sega.com/megamix/img/logo.png" alt="Miku Banner" width="200">
+<img src="https://miku.sega.com/megamix/img/logo.png" alt="Miku Banner" width="300">
 
 
 
