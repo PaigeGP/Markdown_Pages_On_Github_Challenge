@@ -4,7 +4,7 @@
 
 ## A Brief Synopsis
 
-There is no plot to the game Hatsune Miku: Project DIVA MegaMix. This game is rhythmm game that features many vocaloid songs. I will leave links below in the footnotes to the Project DIVA wiki and a page explaining what vocaloid is. 
+There is no plot to the game [Hatsune Miku: Project DIVA MegaMix](https://miku.sega.com/megamixplus/). This game is rhythmm game that features many vocaloid songs. I will leave links below in the footnotes to the Project DIVA wiki and a page explaining what vocaloid is. 
 
 ###### (Brief explanation for vocaloid is that it is a software that models a human singing voice digitally).
 >See the footnote for a link to the Wikipedia page for Project DIVA 2[^1]
